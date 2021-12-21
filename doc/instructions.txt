@@ -1,0 +1,20 @@
+# final_project
+Complete package for the final project for: ENPM809Y Fall 2021
+
+Authors:
+---------
+Pulkit Mehta (UID: 117551693)
+Shubham Takbhate (UID: 118359502)
+Anirudh Krishnan Komaralingam (UID: 117446432)
+
+- The `doc` folder contains the instructions.
+
+Run Instructions:
+-----------------
+1. unzip the package 'final_project' in <your-catkin-workspace>/src
+2. catkin build
+3. ~/catkin_ws/devel/setup.bash
+4. roslaunch final_project multiple_robots.launch
+5. rosrun final_project final_project_node
+
+
